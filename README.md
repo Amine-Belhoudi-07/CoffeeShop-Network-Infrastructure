@@ -80,29 +80,4 @@ The following tests were performed:
 
 All configured network tests were successfully completed.
 
-##  Project Structure
 
-"""
-CoffeeShop-Network-Infrastructure/
-│
-├── README.md
-│
-├── topology/
-│   └── CoffeeShop-Network.pkt
-│
-├── configurations/
-│   ├── router-config.txt
-│   └── switch-config.txt
-│
-├── documentation/
-│   ├── network-design.md
-│   ├── ip-addressing.md
-│   └── vlan-plan.md
-│
-├── testing/
-│   └── network-tests.md
-│
-└── screenshots/
-    ├── topology.png
-    └── connectivity-tests.png
-"""
